@@ -1,4 +1,6 @@
 <div align="center">
+
+  
 ### Entusiasta de Tecnologia | Ciência da Computação | Desenvolvimento de Software
 
 Estudante de **Ciência da Computação**, apaixonado por tecnologia e por transformar ideias e necessidades reais em soluções através de software.
